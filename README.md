@@ -7,32 +7,32 @@ __Alexander Wolff__ has provided example point sets used for an experimental com
 
 __Example Point Sets__
 
-- DenseMap
-- DenseRect
-- RegularGrid
-- HardGrid
-- RandomMap
-- RandomRect
-- MunichDrillholes
-- VariableDensity
+- [DenseMap](Alexander%20Wolff/DenseMap.tar.gz)
+- [DenseRect](Alexander%20Wolff/DenseRect.tar.gz)
+- [RegularGrid](Alexander%20Wolff/RegularGrid.tar.gz)
+- [HardGrid](Alexander%20Wolff/HardGrid.tar.gz)
+- [RandomMap](Alexander%20Wolff/RandomMap.tar.gz)
+- [RandomRect](Alexander%20Wolff/RandomRect.tar.gz)
+- [MunichDrillholes](Alexander%20Wolff/MunichDrillholes.tar.gz)
+- [VariableDensity](Alexander%20Wolff/VariableDensity.tar.gz)
 
 __Real-world data stems from the following sources__
 
-- 19461 drill holes in Munich [gzipped file with x-y-coordinates]
-- 1041 American cities [file with coordinates and abbreviated names]
-- 1158 American cities [file with coordinates and full names]
-- 366 German railway stations [file with coordinates and names]
-- 357 Tourist shops in Berlin [file with coordinates and names]
+- 19461 drill holes in Munich [gzipped file with x-y-coordinates](Alexander%20Wolff/munich_drill_19461.xy.gz)
+- 1041 American cities [file with coordinates and abbreviated names](Alexander%20Wolff/us_abbrev_1041.xyn)
+- 1158 American cities [file with coordinates and full names](Alexander%20Wolff/us_cities_1158.xyn)
+- 366 German railway stations [file with coordinates and names](Alexander%20Wolff/german_railway_366.xyn)
+- 357 Tourist shops in Berlin [file with coordinates and names](Alexander%20Wolff/berlin_shops_357.xyn)
 
 ## Datasets of Luiz Antonio Nogueira Lorena
 __Luiz Antonio Nogueira Lorena__ has provided map labeling datasets
 
-- 25
-- 100
-- 250
-- 500
-- 750
-- 1000
+- [25](Luiz%20Antonio%20Nogueira%20Lorena/d25.zip)
+- [100](Luiz%20Antonio%20Nogueira%20Lorena/d100.zip)
+- [250](Luiz%20Antonio%20Nogueira%20Lorena/d250.zip)
+- [500](Luiz%20Antonio%20Nogueira%20Lorena/d500.zip)
+- [750](Luiz%20Antonio%20Nogueira%20Lorena/d750.zip)
+- [1000](Luiz%20Antonio%20Nogueira%20Lorena/d1000.zip)
 
 __Format__     
 - line 1 : # of points
