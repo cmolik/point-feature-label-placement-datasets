@@ -3,7 +3,7 @@ This repository provides datasets for point feature label placement.
 
 ## Datasets of Alexander Wolf
 
-__Alexander Wolff__ has provided example point sets used for an experimental comparison of a simulated annealing algorithm, a greedy algorithm, and a rule-based algorithm for the point labeling problem. 
+__Alexander Wolff__ has provided example point sets used for an experimental comparison of a simulated annealing algorithm, a greedy algorithm, and a rule-based algorithm for the point labeling problem. The page is accessible only throught [web.archive.org](https://web.archive.org/web/20220620004211/https://i11www.iti.kit.edu/~awolff/map-labeling/general/), therefore we provide mirror of the data files below. 
 
 __Example Point Sets__
 
@@ -25,7 +25,7 @@ __Real-world data stems from the following sources__
 - 357 Tourist shops in Berlin [file with coordinates and names](Alexander%20Wolff/berlin_shops_357.xyn)
 
 ## Datasets of Luiz Antonio Nogueira Lorena
-__Luiz Antonio Nogueira Lorena__ has provided map labeling datasets
+__Luiz Antonio Nogueira Lorena__ has provided map labeling datasets. The page is accessible only throught [web.archive.org](https://web.archive.org/web/20251209080024/http://www.lac.inpe.br/~lorena/instancias.html), therefore we provide mirror of the data files below. 
 
 - [25](Luiz%20Antonio%20Nogueira%20Lorena/d25.zip)
 - [100](Luiz%20Antonio%20Nogueira%20Lorena/d100.zip)
