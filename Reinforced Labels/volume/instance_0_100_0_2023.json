@@ -1,0 +1,915 @@
+{
+	 "screen": {
+		 "size": {
+			 "width": 2400,
+			 "height": 1600
+		},
+		 "background": {
+			 "file": "background.svg"}
+	},
+
+	 "labels": {
+		 "definition": {
+			 "0": {
+				 "text": "ICDI",
+				 "anchor": [1487, 627],
+				 "size": [34, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "1": {
+				 "text": "QTOLQKH",
+				 "anchor": [2363, 1171],
+				 "size": [76, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "2": {
+				 "text": "HBUEHW",
+				 "anchor": [1793, 1166],
+				 "size": [72, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "3": {
+				 "text": "DJX",
+				 "anchor": [1354, 1137],
+				 "size": [32, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "4": {
+				 "text": "TBMRB",
+				 "anchor": [2190, 1299],
+				 "size": [55, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "5": {
+				 "text": "PPVQJWE",
+				 "anchor": [2344, 1488],
+				 "size": [82, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "6": {
+				 "text": "TNTE",
+				 "anchor": [142, 1265],
+				 "size": [40, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "7": {
+				 "text": "ASVT",
+				 "anchor": [2302, 832],
+				 "size": [42, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "8": {
+				 "text": "JYBOW",
+				 "anchor": [1388, 1200],
+				 "size": [60, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "9": {
+				 "text": "BKX",
+				 "anchor": [2145, 21],
+				 "size": [33, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "10": {
+				 "text": "LIKDVB",
+				 "anchor": [64, 199],
+				 "size": [59, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "11": {
+				 "text": "EVTBSHZ",
+				 "anchor": [437, 168],
+				 "size": [73, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "12": {
+				 "text": "CKETR",
+				 "anchor": [1202, 1232],
+				 "size": [54, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "13": {
+				 "text": "OJP",
+				 "anchor": [1632, 1062],
+				 "size": [32, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "14": {
+				 "text": "LMZ",
+				 "anchor": [2327, 136],
+				 "size": [31, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "15": {
+				 "text": "DVNIN",
+				 "anchor": [2371, 1506],
+				 "size": [50, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "16": {
+				 "text": "NJBSB",
+				 "anchor": [1990, 780],
+				 "size": [53, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "17": {
+				 "text": "OEUB",
+				 "anchor": [2131, 957],
+				 "size": [45, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "18": {
+				 "text": "OHLYHW",
+				 "anchor": [184, 203],
+				 "size": [71, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "19": {
+				 "text": "MSC",
+				 "anchor": [1005, 1479],
+				 "size": [36, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "20": {
+				 "text": "TVPYHWT",
+				 "anchor": [2035, 476],
+				 "size": [79, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "21": {
+				 "text": "WWNZDFL",
+				 "anchor": [226, 973],
+				 "size": [85, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "22": {
+				 "text": "FFAKHI",
+				 "anchor": [1189, 1352],
+				 "size": [58, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "23": {
+				 "text": "OSQICM",
+				 "anchor": [2348, 1001],
+				 "size": [65, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "24": {
+				 "text": "EOGOV",
+				 "anchor": [2005, 1417],
+				 "size": [58, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "25": {
+				 "text": "ZUPOIZV",
+				 "anchor": [1106, 380],
+				 "size": [68, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "26": {
+				 "text": "DJHC",
+				 "anchor": [1835, 1149],
+				 "size": [44, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "27": {
+				 "text": "YULOND",
+				 "anchor": [388, 1446],
+				 "size": [66, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "28": {
+				 "text": "QYKBUX",
+				 "anchor": [229, 1043],
+				 "size": [67, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "29": {
+				 "text": "HJNXQY",
+				 "anchor": [1328, 1333],
+				 "size": [65, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "30": {
+				 "text": "MAHL",
+				 "anchor": [2310, 865],
+				 "size": [44, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "31": {
+				 "text": "LXBNGA",
+				 "anchor": [1734, 117],
+				 "size": [65, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "32": {
+				 "text": "CDPEZ",
+				 "anchor": [1684, 1464],
+				 "size": [55, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "33": {
+				 "text": "BRAMS",
+				 "anchor": [1595, 277],
+				 "size": [57, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "34": {
+				 "text": "NQKTC",
+				 "anchor": [57, 913],
+				 "size": [55, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "35": {
+				 "text": "SQNSDUG",
+				 "anchor": [1519, 1499],
+				 "size": [80, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "36": {
+				 "text": "VJUPV",
+				 "anchor": [742, 1393],
+				 "size": [53, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "37": {
+				 "text": "PHVRYY",
+				 "anchor": [557, 44],
+				 "size": [66, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "38": {
+				 "text": "YYCI",
+				 "anchor": [1963, 1555],
+				 "size": [39, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "39": {
+				 "text": "NOZINNP",
+				 "anchor": [2052, 834],
+				 "size": [70, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "40": {
+				 "text": "QABHXW",
+				 "anchor": [545, 417],
+				 "size": [73, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "41": {
+				 "text": "JLEN",
+				 "anchor": [1062, 1049],
+				 "size": [40, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "42": {
+				 "text": "OIF",
+				 "anchor": [1172, 976],
+				 "size": [27, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "43": {
+				 "text": "KNUFA",
+				 "anchor": [450, 222],
+				 "size": [54, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "44": {
+				 "text": "JWR",
+				 "anchor": [364, 444],
+				 "size": [37, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "45": {
+				 "text": "VICTYL",
+				 "anchor": [1058, 392],
+				 "size": [57, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "46": {
+				 "text": "KHF",
+				 "anchor": [1003, 23],
+				 "size": [32, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "47": {
+				 "text": "LQNYO",
+				 "anchor": [431, 386],
+				 "size": [55, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "48": {
+				 "text": "QKHUY",
+				 "anchor": [711, 533],
+				 "size": [56, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "49": {
+				 "text": "FTSZOG",
+				 "anchor": [168, 932],
+				 "size": [63, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "50": {
+				 "text": "UDUCGPY",
+				 "anchor": [2023, 1090],
+				 "size": [80, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "51": {
+				 "text": "FSZWH",
+				 "anchor": [477, 430],
+				 "size": [58, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "52": {
+				 "text": "IELJQFU",
+				 "anchor": [1553, 1424],
+				 "size": [67, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "53": {
+				 "text": "QNPP",
+				 "anchor": [1575, 484],
+				 "size": [45, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "54": {
+				 "text": "OSUGA",
+				 "anchor": [1654, 870],
+				 "size": [57, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "55": {
+				 "text": "TCWTMDE",
+				 "anchor": [47, 687],
+				 "size": [83, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "56": {
+				 "text": "LJI",
+				 "anchor": [1591, 762],
+				 "size": [23, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "57": {
+				 "text": "VWBG",
+				 "anchor": [1972, 1504],
+				 "size": [51, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "58": {
+				 "text": "IIFVL",
+				 "anchor": [778, 930],
+				 "size": [40, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "59": {
+				 "text": "SAC",
+				 "anchor": [846, 424],
+				 "size": [34, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "60": {
+				 "text": "CFM",
+				 "anchor": [1110, 310],
+				 "size": [35, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "61": {
+				 "text": "ABROSOE",
+				 "anchor": [257, 1290],
+				 "size": [79, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "62": {
+				 "text": "CUWC",
+				 "anchor": [1597, 672],
+				 "size": [52, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "63": {
+				 "text": "TQTMVM",
+				 "anchor": [1255, 1507],
+				 "size": [67, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "64": {
+				 "text": "FBCMJ",
+				 "anchor": [519, 912],
+				 "size": [55, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "65": {
+				 "text": "SCWM",
+				 "anchor": [508, 1155],
+				 "size": [53, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "66": {
+				 "text": "JIJA",
+				 "anchor": [455, 991],
+				 "size": [34, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "67": {
+				 "text": "WRAOO",
+				 "anchor": [1295, 1455],
+				 "size": [63, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "68": {
+				 "text": "GATID",
+				 "anchor": [922, 1225],
+				 "size": [49, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "69": {
+				 "text": "TJNDEP",
+				 "anchor": [2161, 1487],
+				 "size": [63, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "70": {
+				 "text": "WEO",
+				 "anchor": [1455, 244],
+				 "size": [40, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "71": {
+				 "text": "NRZXFA",
+				 "anchor": [1559, 273],
+				 "size": [63, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "72": {
+				 "text": "SNJPXMY",
+				 "anchor": [1947, 1345],
+				 "size": [77, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "73": {
+				 "text": "RHSX",
+				 "anchor": [1682, 888],
+				 "size": [44, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "74": {
+				 "text": "MJR",
+				 "anchor": [969, 1563],
+				 "size": [33, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "75": {
+				 "text": "GXXJE",
+				 "anchor": [829, 932],
+				 "size": [54, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "76": {
+				 "text": "IOLUGL",
+				 "anchor": [1298, 1205],
+				 "size": [58, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "77": {
+				 "text": "MPK",
+				 "anchor": [108, 1097],
+				 "size": [35, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "78": {
+				 "text": "DAJJEYY",
+				 "anchor": [866, 1123],
+				 "size": [74, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "79": {
+				 "text": "VYUIF",
+				 "anchor": [1918, 194],
+				 "size": [48, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "80": {
+				 "text": "BJIYMA",
+				 "anchor": [1178, 1001],
+				 "size": [60, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "81": {
+				 "text": "JDA",
+				 "anchor": [352, 584],
+				 "size": [32, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "82": {
+				 "text": "LDLQA",
+				 "anchor": [1030, 1109],
+				 "size": [53, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "83": {
+				 "text": "VLVEKUD",
+				 "anchor": [1201, 1163],
+				 "size": [76, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "84": {
+				 "text": "XYTFEK",
+				 "anchor": [861, 686],
+				 "size": [63, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "85": {
+				 "text": "PLNVLL",
+				 "anchor": [2044, 505],
+				 "size": [60, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "86": {
+				 "text": "YLFAQTE",
+				 "anchor": [2213, 1537],
+				 "size": [73, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "87": {
+				 "text": "RZEPGOM",
+				 "anchor": [435, 586],
+				 "size": [79, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "88": {
+				 "text": "NGHLST",
+				 "anchor": [2398, 535],
+				 "size": [63, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "89": {
+				 "text": "DGMSDMB",
+				 "anchor": [570, 957],
+				 "size": [84, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "90": {
+				 "text": "JHVH",
+				 "anchor": [1033, 268],
+				 "size": [42, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "91": {
+				 "text": "KEOXCN",
+				 "anchor": [361, 999],
+				 "size": [68, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "92": {
+				 "text": "OCCRJ",
+				 "anchor": [1275, 119],
+				 "size": [56, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "93": {
+				 "text": "KOXGKIA",
+				 "anchor": [1446, 1337],
+				 "size": [73, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "94": {
+				 "text": "JLJHXUJ",
+				 "anchor": [1234, 807],
+				 "size": [69, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "95": {
+				 "text": "PIC",
+				 "anchor": [295, 617],
+				 "size": [28, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "96": {
+				 "text": "AYZJL",
+				 "anchor": [903, 700],
+				 "size": [49, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "97": {
+				 "text": "ETKBSXN",
+				 "anchor": [1491, 1224],
+				 "size": [75, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "98": {
+				 "text": "DNSH",
+				 "anchor": [1604, 336],
+				 "size": [45, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			},
+			 "99": {
+				 "text": "WRG",
+				 "anchor": [686, 986],
+				 "size": [40, 20],
+				 "font": {
+					 "size": 17,
+					 "family": "Arial",
+					 "style": "Regular"}
+			}
+		}
+	}
+}

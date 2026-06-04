@@ -1,0 +1,2415 @@
+{
+    "screen": {
+        "size": {
+            "width": 1305,
+            "height": 1025
+        },
+        "background": {
+            "file": "background.svg"
+        }
+    },
+    "labels": {
+        "definition": {
+            "0": {
+                "text": "Potenza",
+                "anchor": [
+                    611,
+                    256
+                ],
+                "size": [
+                    58,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "1": {
+                "text": "Campobasso",
+                "anchor": [
+                    584,
+                    284
+                ],
+                "size": [
+                    87,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "2": {
+                "text": "Aosta",
+                "anchor": [
+                    412,
+                    420
+                ],
+                "size": [
+                    44,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "3": {
+                "text": "Mariehamn",
+                "anchor": [
+                    708,
+                    985
+                ],
+                "size": [
+                    76,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "4": {
+                "text": "Vatican City",
+                "anchor": [
+                    532,
+                    295
+                ],
+                "size": [
+                    79,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "5": {
+                "text": "Poitier",
+                "anchor": [
+                    248,
+                    448
+                ],
+                "size": [
+                    48,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "6": {
+                "text": "Clermont-Ferrand",
+                "anchor": [
+                    313,
+                    421
+                ],
+                "size": [
+                    113,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "7": {
+                "text": "Besançon",
+                "anchor": [
+                    382,
+                    471
+                ],
+                "size": [
+                    69,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "8": {
+                "text": "Bologna",
+                "anchor": [
+                    506,
+                    379
+                ],
+                "size": [
+                    58,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "9": {
+                "text": "Cagliari",
+                "anchor": [
+                    454,
+                    212
+                ],
+                "size": [
+                    55,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "10": {
+                "text": "Catanzaro",
+                "anchor": [
+                    630,
+                    203
+                ],
+                "size": [
+                    71,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "11": {
+                "text": "Bari",
+                "anchor": [
+                    636,
+                    270
+                ],
+                "size": [
+                    34,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "12": {
+                "text": "L'Aquila",
+                "anchor": [
+                    554,
+                    309
+                ],
+                "size": [
+                    57,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "13": {
+                "text": "Ancona",
+                "anchor": [
+                    557,
+                    349
+                ],
+                "size": [
+                    55,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "14": {
+                "text": "Perugia",
+                "anchor": [
+                    531,
+                    333
+                ],
+                "size": [
+                    56,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "15": {
+                "text": "Trieste",
+                "anchor": [
+                    564,
+                    417
+                ],
+                "size": [
+                    50,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "16": {
+                "text": "Trento",
+                "anchor": [
+                    501,
+                    431
+                ],
+                "size": [
+                    48,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "17": {
+                "text": "Caen",
+                "anchor": [
+                    232,
+                    539
+                ],
+                "size": [
+                    42,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "18": {
+                "text": "Nantes",
+                "anchor": [
+                    203,
+                    470
+                ],
+                "size": [
+                    52,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "19": {
+                "text": "Ajaccio",
+                "anchor": [
+                    445,
+                    296
+                ],
+                "size": [
+                    53,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "20": {
+                "text": "Montpellier",
+                "anchor": [
+                    331,
+                    350
+                ],
+                "size": [
+                    74,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "21": {
+                "text": "Dijon",
+                "anchor": [
+                    358,
+                    474
+                ],
+                "size": [
+                    40,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "22": {
+                "text": "Orléans",
+                "anchor": [
+                    285,
+                    494
+                ],
+                "size": [
+                    56,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "23": {
+                "text": "Rouen",
+                "anchor": [
+                    266,
+                    548
+                ],
+                "size": [
+                    49,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "24": {
+                "text": "Reims",
+                "anchor": [
+                    335,
+                    542
+                ],
+                "size": [
+                    48,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "25": {
+                "text": "Amiens",
+                "anchor": [
+                    294,
+                    565
+                ],
+                "size": [
+                    54,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "26": {
+                "text": "Nancy",
+                "anchor": [
+                    386,
+                    521
+                ],
+                "size": [
+                    48,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "27": {
+                "text": "Novi Sad",
+                "anchor": [
+                    706,
+                    403
+                ],
+                "size": [
+                    64,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "28": {
+                "text": "Banja Luka",
+                "anchor": [
+                    643,
+                    388
+                ],
+                "size": [
+                    76,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "29": {
+                "text": "Douglas",
+                "anchor": [
+                    135,
+                    727
+                ],
+                "size": [
+                    58,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "30": {
+                "text": "San Marino",
+                "anchor": [
+                    532,
+                    360
+                ],
+                "size": [
+                    77,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "31": {
+                "text": "Vaduz",
+                "anchor": [
+                    464,
+                    467
+                ],
+                "size": [
+                    47,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "32": {
+                "text": "Gibraltar",
+                "anchor": [
+                    115,
+                    121
+                ],
+                "size": [
+                    61,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "33": {
+                "text": "Edinburgh",
+                "anchor": [
+                    165,
+                    801
+                ],
+                "size": [
+                    70,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "34": {
+                "text": "Cardiff",
+                "anchor": [
+                    166,
+                    624
+                ],
+                "size": [
+                    49,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "35": {
+                "text": "Luxembourg",
+                "anchor": [
+                    384,
+                    555
+                ],
+                "size": [
+                    83,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "36": {
+                "text": "Turin",
+                "anchor": [
+                    420,
+                    397
+                ],
+                "size": [
+                    40,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "37": {
+                "text": "Rennes",
+                "anchor": [
+                    201,
+                    501
+                ],
+                "size": [
+                    56,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "38": {
+                "text": "Toulouse",
+                "anchor": [
+                    274,
+                    350
+                ],
+                "size": [
+                    63,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "39": {
+                "text": "Limoges",
+                "anchor": [
+                    270,
+                    423
+                ],
+                "size": [
+                    60,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "40": {
+                "text": "Lille",
+                "anchor": [
+                    313,
+                    593
+                ],
+                "size": [
+                    34,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "41": {
+                "text": "Strasbourg",
+                "anchor": [
+                    422,
+                    518
+                ],
+                "size": [
+                    74,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "42": {
+                "text": "Batumi",
+                "anchor": [
+                    1216,
+                    286
+                ],
+                "size": [
+                    51,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "43": {
+                "text": "Genoa",
+                "anchor": [
+                    450,
+                    376
+                ],
+                "size": [
+                    50,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "44": {
+                "text": "Sukhumi",
+                "anchor": [
+                    1202,
+                    331
+                ],
+                "size": [
+                    61,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "45": {
+                "text": "Monaco",
+                "anchor": [
+                    414,
+                    354
+                ],
+                "size": [
+                    57,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "46": {
+                "text": "Andorra",
+                "anchor": [
+                    276,
+                    314
+                ],
+                "size": [
+                    57,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "47": {
+                "text": "Manchester",
+                "anchor": [
+                    188,
+                    700
+                ],
+                "size": [
+                    79,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "48": {
+                "text": "Sousse",
+                "anchor": [
+                    490,
+                    112
+                ],
+                "size": [
+                    54,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "49": {
+                "text": "Lviv",
+                "anchor": [
+                    804,
+                    563
+                ],
+                "size": [
+                    34,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "50": {
+                "text": "Odessa",
+                "anchor": [
+                    960,
+                    445
+                ],
+                "size": [
+                    56,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "51": {
+                "text": "Zhytomyr",
+                "anchor": [
+                    912,
+                    578
+                ],
+                "size": [
+                    65,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "52": {
+                "text": "Dnipro",
+                "anchor": [
+                    1061,
+                    514
+                ],
+                "size": [
+                    49,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "53": {
+                "text": "Donetsk",
+                "anchor": [
+                    1127,
+                    497
+                ],
+                "size": [
+                    58,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "54": {
+                "text": "Kharkiv",
+                "anchor": [
+                    1090,
+                    569
+                ],
+                "size": [
+                    54,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "55": {
+                "text": "Birmingham",
+                "anchor": [
+                    195,
+                    662
+                ],
+                "size": [
+                    80,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "56": {
+                "text": "Belfast",
+                "anchor": [
+                    102,
+                    745
+                ],
+                "size": [
+                    51,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "57": {
+                "text": "İzmir",
+                "anchor": [
+                    877,
+                    189
+                ],
+                "size": [
+                    39,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "58": {
+                "text": "Bursa",
+                "anchor": [
+                    922,
+                    242
+                ],
+                "size": [
+                    45,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "59": {
+                "text": "Samsun",
+                "anchor": [
+                    1093,
+                    276
+                ],
+                "size": [
+                    58,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "60": {
+                "text": "Konya",
+                "anchor": [
+                    1002,
+                    172
+                ],
+                "size": [
+                    48,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "61": {
+                "text": "Adana",
+                "anchor": [
+                    1068,
+                    146
+                ],
+                "size": [
+                    48,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "62": {
+                "text": "Córdoba",
+                "anchor": [
+                    129,
+                    172
+                ],
+                "size": [
+                    61,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "63": {
+                "text": "Constanța",
+                "anchor": [
+                    911,
+                    369
+                ],
+                "size": [
+                    70,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "64": {
+                "text": "Iași",
+                "anchor": [
+                    887,
+                    468
+                ],
+                "size": [
+                    31,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "65": {
+                "text": "Vigo",
+                "anchor": [
+                    36,
+                    305
+                ],
+                "size": [
+                    37,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "66": {
+                "text": "Bilbao",
+                "anchor": [
+                    172,
+                    338
+                ],
+                "size": [
+                    47,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "67": {
+                "text": "The Hague",
+                "anchor": [
+                    341,
+                    646
+                ],
+                "size": [
+                    75,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "68": {
+                "text": "Kristiansand",
+                "anchor": [
+                    427,
+                    896
+                ],
+                "size": [
+                    82,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "69": {
+                "text": "Ljubljana",
+                "anchor": [
+                    581,
+                    430
+                ],
+                "size": [
+                    63,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "70": {
+                "text": "Bratislava",
+                "anchor": [
+                    642,
+                    503
+                ],
+                "size": [
+                    68,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "71": {
+                "text": "Oujda",
+                "anchor": [
+                    196,
+                    79
+                ],
+                "size": [
+                    45,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "72": {
+                "text": "Safi",
+                "anchor": [
+                    24,
+                    13
+                ],
+                "size": [
+                    33,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "73": {
+                "text": "Podgorica",
+                "anchor": [
+                    692,
+                    313
+                ],
+                "size": [
+                    69,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "74": {
+                "text": "Nalchik",
+                "anchor": [
+                    1263,
+                    346
+                ],
+                "size": [
+                    53,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "75": {
+                "text": "Stavropol",
+                "anchor": [
+                    1225,
+                    397
+                ],
+                "size": [
+                    66,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "76": {
+                "text": "Kaliningrad",
+                "anchor": [
+                    721,
+                    749
+                ],
+                "size": [
+                    76,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "77": {
+                "text": "Pskov",
+                "anchor": [
+                    905,
+                    882
+                ],
+                "size": [
+                    46,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "78": {
+                "text": "Bryansk",
+                "anchor": [
+                    1048,
+                    692
+                ],
+                "size": [
+                    58,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "79": {
+                "text": "Smolensk",
+                "anchor": [
+                    992,
+                    753
+                ],
+                "size": [
+                    68,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "80": {
+                "text": "Tver",
+                "anchor": [
+                    1082,
+                    839
+                ],
+                "size": [
+                    37,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "81": {
+                "text": "Vologda",
+                "anchor": [
+                    1176,
+                    944
+                ],
+                "size": [
+                    58,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "82": {
+                "text": "Yaroslavl",
+                "anchor": [
+                    1175,
+                    872
+                ],
+                "size": [
+                    63,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "83": {
+                "text": "Rostov",
+                "anchor": [
+                    1171,
+                    471
+                ],
+                "size": [
+                    51,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "84": {
+                "text": "Sochi",
+                "anchor": [
+                    1172,
+                    349
+                ],
+                "size": [
+                    43,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "85": {
+                "text": "Krasnodar",
+                "anchor": [
+                    1155,
+                    396
+                ],
+                "size": [
+                    71,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "86": {
+                "text": "Penza",
+                "anchor": [
+                    1295,
+                    689
+                ],
+                "size": [
+                    48,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "87": {
+                "text": "Ryazan",
+                "anchor": [
+                    1172,
+                    746
+                ],
+                "size": [
+                    55,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "88": {
+                "text": "Voronezh",
+                "anchor": [
+                    1159,
+                    631
+                ],
+                "size": [
+                    66,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "89": {
+                "text": "Gdańsk",
+                "anchor": [
+                    677,
+                    736
+                ],
+                "size": [
+                    56,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "90": {
+                "text": "Kraków",
+                "anchor": [
+                    708,
+                    571
+                ],
+                "size": [
+                    54,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "91": {
+                "text": "Bern",
+                "anchor": [
+                    416,
+                    460
+                ],
+                "size": [
+                    38,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "92": {
+                "text": "Malmö",
+                "anchor": [
+                    546,
+                    786
+                ],
+                "size": [
+                    50,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "93": {
+                "text": "Florence",
+                "anchor": [
+                    504,
+                    355
+                ],
+                "size": [
+                    61,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "94": {
+                "text": "Catania",
+                "anchor": [
+                    594,
+                    161
+                ],
+                "size": [
+                    56,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "95": {
+                "text": "Pristina",
+                "anchor": [
+                    737,
+                    319
+                ],
+                "size": [
+                    54,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "96": {
+                "text": "Dresden",
+                "anchor": [
+                    563,
+                    607
+                ],
+                "size": [
+                    60,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "97": {
+                "text": "Bordeaux",
+                "anchor": [
+                    227,
+                    390
+                ],
+                "size": [
+                    66,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "98": {
+                "text": "Marseille",
+                "anchor": [
+                    366,
+                    339
+                ],
+                "size": [
+                    63,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "99": {
+                "text": "Le Havre",
+                "anchor": [
+                    243,
+                    551
+                ],
+                "size": [
+                    64,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "100": {
+                "text": "Skopje",
+                "anchor": [
+                    743,
+                    298
+                ],
+                "size": [
+                    51,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "101": {
+                "text": "Misrata",
+                "anchor": [
+                    595,
+                    14
+                ],
+                "size": [
+                    53,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "102": {
+                "text": "Zuwara",
+                "anchor": [
+                    524,
+                    30
+                ],
+                "size": [
+                    54,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "103": {
+                "text": "Kirkuk",
+                "anchor": [
+                    1281,
+                    102
+                ],
+                "size": [
+                    47,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "104": {
+                "text": "Mosul",
+                "anchor": [
+                    1252,
+                    127
+                ],
+                "size": [
+                    45,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "105": {
+                "text": "Najaf",
+                "anchor": [
+                    1280,
+                    4
+                ],
+                "size": [
+                    41,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "106": {
+                "text": "Venice",
+                "anchor": [
+                    530,
+                    410
+                ],
+                "size": [
+                    50,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "107": {
+                "text": "Annaba",
+                "anchor": [
+                    422,
+                    144
+                ],
+                "size": [
+                    56,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "108": {
+                "text": "Constantine",
+                "anchor": [
+                    395,
+                    127
+                ],
+                "size": [
+                    80,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "109": {
+                "text": "Brest",
+                "anchor": [
+                    796,
+                    647
+                ],
+                "size": [
+                    41,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "110": {
+                "text": "Tunis",
+                "anchor": [
+                    479,
+                    140
+                ],
+                "size": [
+                    42,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "111": {
+                "text": "Sevastopol",
+                "anchor": [
+                    1026,
+                    382
+                ],
+                "size": [
+                    75,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "112": {
+                "text": "Glasgow",
+                "anchor": [
+                    141,
+                    797
+                ],
+                "size": [
+                    61,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "113": {
+                "text": "Seville",
+                "anchor": [
+                    100,
+                    158
+                ],
+                "size": [
+                    49,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "114": {
+                "text": "Bergen",
+                "anchor": [
+                    365,
+                    999
+                ],
+                "size": [
+                    53,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "115": {
+                "text": "Fez",
+                "anchor": [
+                    123,
+                    61
+                ],
+                "size": [
+                    32,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "116": {
+                "text": "Rabat",
+                "anchor": [
+                    80,
+                    60
+                ],
+                "size": [
+                    45,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "117": {
+                "text": "Chișinău",
+                "anchor": [
+                    917,
+                    463
+                ],
+                "size": [
+                    61,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "118": {
+                "text": "Nizhny Novgorod",
+                "anchor": [
+                    1272,
+                    817
+                ],
+                "size": [
+                    110,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "119": {
+                "text": "Volgograd",
+                "anchor": [
+                    1284,
+                    522
+                ],
+                "size": [
+                    69,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "120": {
+                "text": "Valencia",
+                "anchor": [
+                    231,
+                    220
+                ],
+                "size": [
+                    60,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "121": {
+                "text": "Palermo",
+                "anchor": [
+                    553,
+                    179
+                ],
+                "size": [
+                    59,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "122": {
+                "text": "Amman",
+                "anchor": [
+                    1083,
+                    2
+                ],
+                "size": [
+                    56,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "123": {
+                "text": "Vilnius",
+                "anchor": [
+                    834,
+                    749
+                ],
+                "size": [
+                    49,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "124": {
+                "text": "Riga",
+                "anchor": [
+                    805,
+                    843
+                ],
+                "size": [
+                    38,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "125": {
+                "text": "Lyon",
+                "anchor": [
+                    354,
+                    421
+                ],
+                "size": [
+                    39,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "126": {
+                "text": "Zagreb",
+                "anchor": [
+                    616,
+                    422
+                ],
+                "size": [
+                    52,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "127": {
+                "text": "Tallinn",
+                "anchor": [
+                    820,
+                    954
+                ],
+                "size": [
+                    48,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "128": {
+                "text": "Banghazi",
+                "anchor": [
+                    711,
+                    7
+                ],
+                "size": [
+                    65,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "129": {
+                "text": "Thessaloniki",
+                "anchor": [
+                    777,
+                    257
+                ],
+                "size": [
+                    83,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "130": {
+                "text": "Beirut",
+                "anchor": [
+                    1073,
+                    56
+                ],
+                "size": [
+                    45,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "131": {
+                "text": "Tbilisi",
+                "anchor": [
+                    1290,
+                    289
+                ],
+                "size": [
+                    44,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "132": {
+                "text": "Belgrade",
+                "anchor": [
+                    720,
+                    389
+                ],
+                "size": [
+                    63,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "133": {
+                "text": "Tirana",
+                "anchor": [
+                    705,
+                    277
+                ],
+                "size": [
+                    47,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "134": {
+                "text": "Yerevan",
+                "anchor": [
+                    1284,
+                    242
+                ],
+                "size": [
+                    58,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "135": {
+                "text": "Oran",
+                "anchor": [
+                    226,
+                    109
+                ],
+                "size": [
+                    40,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "136": {
+                "text": "Ghardaia",
+                "anchor": [
+                    327,
+                    17
+                ],
+                "size": [
+                    64,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "137": {
+                "text": "Sofia",
+                "anchor": [
+                    787,
+                    320
+                ],
+                "size": [
+                    40,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "138": {
+                "text": "Minsk",
+                "anchor": [
+                    887,
+                    717
+                ],
+                "size": [
+                    45,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "139": {
+                "text": "Sarajevo",
+                "anchor": [
+                    671,
+                    357
+                ],
+                "size": [
+                    62,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "140": {
+                "text": "Valletta",
+                "anchor": [
+                    581,
+                    114
+                ],
+                "size": [
+                    53,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "141": {
+                "text": "Nicosia",
+                "anchor": [
+                    1023,
+                    93
+                ],
+                "size": [
+                    53,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "142": {
+                "text": "Ankara",
+                "anchor": [
+                    1011,
+                    234
+                ],
+                "size": [
+                    52,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "143": {
+                "text": "Budapest",
+                "anchor": [
+                    688,
+                    480
+                ],
+                "size": [
+                    66,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "144": {
+                "text": "Barcelona",
+                "anchor": [
+                    292,
+                    279
+                ],
+                "size": [
+                    69,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "145": {
+                "text": "Bucharest",
+                "anchor": [
+                    852,
+                    376
+                ],
+                "size": [
+                    69,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "146": {
+                "text": "Aleppo",
+                "anchor": [
+                    1112,
+                    124
+                ],
+                "size": [
+                    51,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "147": {
+                "text": "Damascus",
+                "anchor": [
+                    1091,
+                    46
+                ],
+                "size": [
+                    72,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "148": {
+                "text": "Zürich",
+                "anchor": [
+                    441,
+                    476
+                ],
+                "size": [
+                    47,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            },
+            "149": {
+                "text": "Lisbon",
+                "anchor": [
+                    26,
+                    197
+                ],
+                "size": [
+                    49,
+                    15
+                ],
+                "font": {
+                    "size": 10,
+                    "family": "Arial",
+                    "style": "Regular"
+                }
+            }
+        }
+    }
+}

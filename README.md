@@ -1,6 +1,28 @@
 # Point feature label placement datasets
 This repository provides datasets for point feature label placement.
 
+## Datasets for Rapid Labels
+
+Pavlovec and Čmolík provided datasets for their greedy point feature label placement algorithm running on GPU. In their approach, the users can specify regions where importatnt features are located and therefore labels cannot overlap these regions. The regions where important features are located are provided as an additional input of the algorithm in form of an image together with the point features positions and names, and background image over which the labels are positioned.
+
+- [ConnectedScatterplot](Rapid%20Labels/ConnectedScatterplot), [zip file](Rapid%20Labels/ConnectedScatterplot.zip)
+- [USAirports](Rapid%20Labels/USAirports), [zip file](Rapid%20Labels/USAirports.zip)
+
+
+## Datasets for Reinforced Labels 
+
+Bobák et al. provided datasets for testing of their point feature label placement algorithm leveraging reinforcement learning.
+
+__Example Point Sets__
+
+- [Compact](Reinforced%20Labels/compact), [zip file](Reinforced%20Labels/compact.zip)
+- [Volume](Reinforced%20Labels/volume), [zip fie](Reinforced%20Labels/volume.zip)
+
+__Real-world data stems from the following sources__
+
+- [City_150](Reinforced%20Labels/city_150), [zip file](Reinforced%20Labels/city_150.zip)
+- [IATA_Airports_250](Reinforced%20Labels/iata_airports_250), [zip file](Reinforced%20Labels/iata_airports_250.zip)
+
 ## Datasets of Alexander Wolf
 
 __Alexander Wolff__ has provided example point sets used for an experimental comparison of a simulated annealing algorithm, a greedy algorithm, and a rule-based algorithm for the point labeling problem. The page is accessible only throught [web.archive.org](https://web.archive.org/web/20220620004211/https://i11www.iti.kit.edu/~awolff/map-labeling/general/), therefore we provide mirror of the data files below. 
