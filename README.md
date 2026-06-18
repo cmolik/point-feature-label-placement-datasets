@@ -1,5 +1,23 @@
-# Point feature label placement datasets
-This repository provides datasets for point feature label placement.
+# Point feature label placement implementations and datasets
+This repository provides links to available implementations of point feature label placement methods and datasets on which the methods can be evaluated.
+
+# Implementations
+
+[Mapnik](https://github.com/mapnik/mapnik) is an open-source toolkit written in C++ (with Python and Node APIs) for rendering high-quality, beautiful maps. It is most famous for being the primary rendering engine used by the OpenStreetMap. It also contains label placement engine.
+
+[QGis](https://www.qgis.org/) is an open-source geographic information system that contains label placement engine. 
+
+Bobák et al. have provided their implementation of the Reinforced Labels at [TBD](). 
+
+Pavlovec and Čmolík have provided Java implementation of Rapid Labels at [https://github.com/cmolik/rapid-labels](https://github.com/cmolik/rapid-labels). The project is using Maven, all required libraries are downloaded automatically. 
+
+Martin Luboshik has provided Java implementation of Particle-based Labeling at [https://sourceforge.net/projects/fpf-labeling/](https://sourceforge.net/projects/fpf-labeling/).
+
+Ladislav Čmolík has provided Java implementation where simple examples (without Lagrangean decomposition) are solved with ILP at [https://github.com/cmolik/ilp_labeling](https://github.com/cmolik/ilp_labeling). The same configuration of labels is solved with different primary objectives (Label Number Maximization, Conflict-Free Label Maximization, and Label Conflict Minimization). Choco solver is used as the ILP solver. The project is using Maven, all required libraries are downloaded automatically. 
+
+[OpenLL](https://openll.org/) is a C++ library for high-quality text rendering on GPU.
+
+# Datasets
 
 ## Datasets for Rapid Labels
 
@@ -18,7 +36,7 @@ __Example Point Sets__
 - [Compact](Reinforced%20Labels/compact), [zip file](Reinforced%20Labels/compact.zip)
 - [Volume](Reinforced%20Labels/volume), [zip fie](Reinforced%20Labels/volume.zip)
 
-__Real-world data stems from the following sources__
+__Real-world data__
 
 - [City_150](Reinforced%20Labels/city_150), [zip file](Reinforced%20Labels/city_150.zip)
 - [IATA_Airports_250](Reinforced%20Labels/iata_airports_250), [zip file](Reinforced%20Labels/iata_airports_250.zip)
@@ -70,3 +88,7 @@ __Format__
 - ......
 
 (*)  # of labels = line 1  *  line 2
+
+# References
+
+
