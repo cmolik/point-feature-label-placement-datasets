@@ -1,5 +1,19 @@
-# Point feature label placement implementations and datasets
-This repository provides links to available implementations of point feature label placement methods and datasets on which the methods can be evaluated.
+# Supplementary material to Internal Label Placement for Point Features: A Survey
+This repository is a supplementary material to the paper Internal Label Placement for Point Features: A Survey. The repository provides links to available implementations of point feature label placement methods and datasets on which the methods can be evaluated.
+
+Please cite this resource as:
+
+Bobák, P, Čmolík, L, Čadík, M. Internal Label Placement for Point Features: A Survey, 2026.
+
+Bibtex:
+
+```
+@misc{Bobak26,
+    author={Petr Bob\'{a}k and Ladislav {\v{C}}mol\'{i}k and Martin {\v{C}}ad\'{i}k},
+    title={Internal Label Placement for Point Features: A Survey},
+    year={2026},
+}
+```
 
 # Implementations
 
