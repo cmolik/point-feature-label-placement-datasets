@@ -7,7 +7,7 @@ This repository provides links to available implementations of point feature lab
 
 [QGis](https://www.qgis.org/) is an open-source geographic information system that contains label placement engine. 
 
-Bobák et al. have provided their implementation of the Reinforced Labels at [[TBD](https://github.com/PetrBo/reinforced-labels)](https://github.com/PetrBo/reinforced-labels). 
+Bobák et al. have provided their implementation of the Reinforced Labels at [https://github.com/PetrBo/reinforced-labels](https://github.com/PetrBo/reinforced-labels). 
 
 Pavlovec and Čmolík have provided Java implementation of Rapid Labels at [https://github.com/cmolik/rapid-labels](https://github.com/cmolik/rapid-labels). The project is using Maven, all required libraries are downloaded automatically. 
 
