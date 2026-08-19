@@ -91,9 +91,9 @@ __Format__
 (*)  # of labels = line 1  *  line 2
 
 ### References
-[^BoCmCa24]: Bobák, P, Čmolík, L, Čadík, M. Reinforced labels: Multi-agent deep reinforcement learning for point-feature label placement. IEEE Transactions on Visualization and Computer Graphics 2024;30(9):5908–5922. doi:10.1109/TVCG.2023.3313729.
-[^LuSchCo08]: Luboschik, M, Schumann, H, Cords, H. Particle-based labeling: Fast point-feature labeling without obscuring other visual features. IEEE Transactions on Visualization and Computer Graphics 2008;14(6):1237–1244. doi:10.1109/TVCG.2008.152.
-[^PaCm22]: Pavlovec, V, Čmolík, L. Rapid labels: Point-feature labeling on GPU. IEEE Transactions on Visualization and Computer Graphics 2022;28(1):604–613. doi:10.1109/TVCG.2021.3114854.
-[^RiLo08]: Ribeiro, GM, Lorena, LAN. Lagrangean relaxation with clusters for point-feature cartographic label placement problems. Computers and Operations Research 2008;35:2129–2140. doi:10.1016/j.cor.2006.09.024.
-[^WaWo98]: Wagner, F, Wolff, A. A combinatorial framework for map labeling. In: International Symposium on Graph Drawing. Springer; 1998, p. 316–331.
-[^YaLo05]: Yamamoto, M, Lorena, LA. A constructive genetic approach to point-feature cartographic label placement. In: Metaheuristics: Progress as real problem solvers. Springer; 2005, p. 287–302.
+[^BoCmCa24]: Bobák, P, Čmolík, L, Čadík, M. Reinforced labels: Multi-agent deep reinforcement learning for point-feature label placement. IEEE Transactions on Visualization and Computer Graphics 2024;30(9):5908–5922. doi:[10.1109/TVCG.2023.3313729](https://doi.org/10.1109/TVCG.2023.3313729).
+[^LuSchCo08]: Luboschik, M, Schumann, H, Cords, H. Particle-based labeling: Fast point-feature labeling without obscuring other visual features. IEEE Transactions on Visualization and Computer Graphics 2008;14(6):1237–1244. doi:[10.1109/TVCG.2008.152](https://doi.org/10.1109/TVCG.2008.152).
+[^PaCm22]: Pavlovec, V, Čmolík, L. Rapid labels: Point-feature labeling on GPU. IEEE Transactions on Visualization and Computer Graphics 2022;28(1):604–613. doi:[10.1109/TVCG.2021.3114854](https://doi.org/10.1109/TVCG.2021.3114854).
+[^RiLo08]: Ribeiro, GM, Lorena, LAN. Lagrangean relaxation with clusters for point-feature cartographic label placement problems. Computers and Operations Research 2008;35:2129–2140. doi:[10.1016/j.cor.2006.09.024](https://doi.org/10.1016/j.cor.2006.09.024).
+[^WaWo98]: Wagner, F, Wolff, A. A combinatorial framework for map labeling. In: International Symposium on Graph Drawing. Springer; 1998, p. 316–331. doi:[10.1007/3-540-37623-2_24](https://doi.org/10.1007/3-540-37623-2_24)
+[^YaLo05]: Yamamoto, M, Lorena, LA. A constructive genetic approach to point-feature cartographic label placement. In: Metaheuristics: Progress as real problem solvers. Springer; 2005, p. 287–302. doi:[10.1007/0-387-25383-1_13](https://doi.org/10.1007/0-387-25383-1_13)
